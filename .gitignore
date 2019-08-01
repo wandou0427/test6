@@ -13,6 +13,7 @@ npm-*
 /build
 /dist
 /.opt-in
+/.idea
 
 # generated translation files
 /translations
